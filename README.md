@@ -7,9 +7,9 @@
 
 - 🤝 I’d love to chat with **professional developers!**
 
-- 📫 How to reach me **Discord: Jarxie**
+- 📩 How to reach me: **Discord - Jarxie**
 
-- ⚡ Fun fact **I've never lost a DDR game!**
+- ✨ Fun fact: **I've never lost a DDR match!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
