@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🤓, I'm Jenn Rosen 🌹 AKA Jarxie</h1>
 <h3 align="center">A passionate web developer, puzzle enthusiast, gamer and animal lover 🧩🎮🐈</h3>
 
-- 📚 I’m currently learning **Frontend Development**
+- 🧮 I love to code, with particular interest and expertise in **Full-Stack Web Development.**
 
 - 🤗 I’m looking to connect with **other passionate developers!**
 
