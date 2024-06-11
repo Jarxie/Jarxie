@@ -3,9 +3,7 @@
 
 - 📚 I’m currently learning **Frontend Development**
 
-- 🤗 I’m looking to connect with **fellow aspiring developers!**
-
-- 🤝 I’d love to chat with **professional developers!**
+- 🤗 I’m looking to connect with **other passionate developers!**
 
 - 📩 How to reach me: **Discord - Jarxie**
 
